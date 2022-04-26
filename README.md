@@ -7,7 +7,7 @@ This repository contains both the finished version and starting point of the cod
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- Python, at least version 3.9
+	- Python, at least version 3.10
 	- An IDE such as Visual Studio Code
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
