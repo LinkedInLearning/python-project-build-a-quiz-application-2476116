@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Sample Quiz">
+    <Description>This is a sample quiz. There are some sample questions and such, 
+    but nothing too difficult (it is, after all, a sample).</Description>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="2">To the nearest billion, how old is the earth?</QuestionText>
+        <Answer name="1">3 billion years</Answer>
+        <Answer name="2">5 billion years</Answer>
+        <Answer name="3">7 billion years</Answer>
+        <Answer name="4">9 billion years</Answer>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Broccoli is good for you</QuestionText>
+    </Question>
+    <Question type="tf" points="3">
+        <QuestionText answer="f">The world is flat</QuestionText>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">What was the color of George Washington's White Horse?</QuestionText>
+        <Answer name="1">Brown</Answer>
+        <Answer name="2">Black</Answer>
+        <Answer name="3">White</Answer>
+        <Answer name="4">Gray</Answer>
+    </Question>
+</QuizML>

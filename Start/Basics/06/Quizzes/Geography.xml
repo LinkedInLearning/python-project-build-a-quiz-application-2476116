@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Geography Fun!">
+    <Question type="multichoice" points="5">
+        <QuestionText answer="3">What is the largest state in the US?</QuestionText>
+        <Answer name="1">Texas</Answer>
+        <Answer name="2">Califorina</Answer>
+        <Answer name="3">Alaska</Answer>
+        <Answer name="4">Montana</Answer>
+    </Question>
+    <Question type="tf" points="3">
+        <QuestionText answer="t">The lowest point on land in the US is in Death Valley, Califorina</QuestionText>
+    </Question>
+    <Question type="multichoice" points="4">
+        <QuestionText answer="4">Which of the following is not one of the 7 continents?</QuestionText>
+        <Answer name="1">Africa</Answer>
+        <Answer name="2">South America</Answer>
+        <Answer name="3">Antarctica</Answer>
+        <Answer name="4">Greenland</Answer>
+        <Answer name="5">North America</Answer>
+    </Question>
+    <Question type="tf" points="3">
+        <QuestionText answer="t">Earth's hghest point above sea level is Mount Everest</QuestionText>
+    </Question>
+    <Question type="multichoice" points="5">
+        <QuestionText answer="4">Which mountain is the tallest from its base to its peak?</QuestionText>
+        <Answer name="1">Everest</Answer>
+        <Answer name="2">Kilimanjaro</Answer>
+        <Answer name="3">Chimborazo</Answer>
+        <Answer name="4">Mauna Kea</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="2">To the nearest billion, how old is the earth?</QuestionText>
+        <Answer name="1">3 billion years</Answer>
+        <Answer name="2">5 billion years</Answer>
+        <Answer name="3">7 billion years</Answer>
+        <Answer name="4">9 billion years</Answer>
+    </Question>
+    <Question type="tf" points="4">
+        <QuestionText answer="t">The deepest known part of the ocean is the Mariana Trench</QuestionText>
+    </Question>
+    <Question type="multichoice" points="7">
+        <QuestionText answer="1">This river flows into the Mediterranean sea</QuestionText>
+        <Answer name="1">Nile</Answer>
+        <Answer name="2">Amazon</Answer>
+        <Answer name="3">Volga</Answer>
+        <Answer name="4">Tagus</Answer>
+    </Question>
+</QuizML>

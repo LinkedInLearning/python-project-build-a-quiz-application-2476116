@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Geography Fun!">
+    <Question type="multichoice" points="5">
+        <QuestionText answer="3">What is the largest state in the US?</QuestionText>
+        <Answer name="1">Texas</Answer>
+        <Answer name="2">Califorina</Answer>
+        <Answer name="3">Alaska</Answer>
+        <Answer name="4">Montana</Answer>
+    </Question>
+    <Question type="tf" points="3">
+        <QuestionText answer="t">The lowest point on land in the US is in Death Valley, Califorina</QuestionText>
+    </Question>
+</QuizML>
