@@ -13,7 +13,7 @@ class Quiz:
         self.total_points = 0
 
     def print_header(self):
-        print("\n\n*******************************************")
+        print("\n\n********************************mina***********")
         print(f"QUIZ NAME: {self.name}")
         print(f"DESCRIPTION: {self.description}")
         print(f"QUESTIONS: {len(self.questions)}")
